@@ -1,43 +1,28 @@
-http://www.chiashinknobs.com.tw/
-http://www.top-up.com.tw/front/bin/cglist.phtml?Category=31147
+Case: Hammond 1590FBK 188x188x63
+Nut to close case hole: (6-32) Keystone Electronics 9602
 
-Hammond 1590F 188x188x63
+Screws HDMI: Keystone 9191-3
+Screws DVI: Molex 71781-0001 [panel thickness: 0.03 to 0.04 inch]
 
-6.38mm shaft
-Large knob KLN1250B1/4 [31.75mm] KLN900B1/4 [23.80mm] 15.87mm high
-or http://www.chiashinknobs.com.tw/products/cs/cs-specifications-photos/CS251-3818SB.htm
-Wheel knob KN1251B1/4
-or http://www.chiashinknobs.com.tw/products/cs/cs-specifications-photos/CS271-0913B.htm
-or 450-CKL564
-Slider http://www.okwenclosures.com/products/okw/slide-knobs.htm or http://www.frontline-usa.com/switches/pdf/Slideknobs.pdf 45004
-Pushbutton BTND690F + D6C30 F1 LFS/ Rafi RK90 keycaps www.rafi.de RF15 (14x21/28mm)
+Slider pot: RS6011SP6003
+Slider knob: 450-SL4514
 
-Large knob PDB181-E420F-503B PTV111-3420A-B103
-Wheel knob
-24-pulse PEC16-4220F-S0024 (20mm shaft) PEC16-4215F-S0024 (15mm shaft)
-12-pulse PEC16-4220F-S0012  PEC16-4115F-S0012
+Alpha knobs: KLN900B1/4
+Alpha pots: P160KNP-0QC20B50K
 
-Slider RS6011SP6003
-Pushbutton Rafi
-screws HDMI Keystone 9191-3
-screws DVI Molex 71781-0001 [panel thickness: 0.03 to 0.04 inch]
+Encoder knob: KN1251B1/4
+Encoder: EN11-HSM1AQ20 (best: EN11-HSM1BQ20)
 
-http://www.oep.com
-http://www.ehcknobs.com
-
-Case 1590FBK
-Nut to close case hole:
-Slide pot mounting screw: (M2) Screw
-48SM006 48SM004
-http://www.conrad.de/ce/de/product/889753/Senkkopfschraube-mit-Philips-Kreuzschlitz-DIN-965-Stahl-verzinkt-Guete-48-M2-10-mm-1-St?
-http://www.conrad.de/ce/de/product/889707/Senkkopfschraube-mit-Schlitz-Stahl-DIN-963-DIN-963-6-mm-Stahl-verzinkt-Guete-48-M2-1-St
-Pot/encoder spacer:
-Slider knob: 450-SL4514 
-Sliders PDB181-E420F-503B PTV111-3420A-B103
 Keycap APEM 642-1M00 642-1M06
 Key APEM 642-5GSH935
-Cable 92315-2010
-LEDs:
-M2 spacers:
+LEDs: LTL-433HR
+
+Display: Keystone 1289-ST (Connectors > Terminals)
+
+Slider pot mounting screw: (M2) 48SM006 48SM004
+http://www.conrad.de/ce/de/product/889753/Senkkopfschraube-mit-Philips-Kreuzschlitz-DIN-965-Stahl-verzinkt-Guete-48-M2-10-mm-1-St?
+http://www.conrad.de/ce/de/product/889707/Senkkopfschraube-mit-Schlitz-Stahl-DIN-963-DIN-963-6-mm-Stahl-verzinkt-Guete-48-M2-1-St
+M2 spacers: R20-1000602
 
 Glass: glasshop-berlin.de
+4-40 washers for board
