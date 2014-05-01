@@ -84,7 +84,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory /home/sb/M-Labs/mixxeo_mech/pcbs/gerber/))
+      (outputdirectory /home/sb/M-Labs/mixxeo_mech/pcbs/btn2/gerber/))
   )
 
   (net 0 "")
