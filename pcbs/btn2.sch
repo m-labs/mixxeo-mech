@@ -1,6 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:buttons
-LIBS:pcbs-cache
+LIBS:mixxeo
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268

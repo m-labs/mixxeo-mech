@@ -17,7 +17,7 @@ RptD_Y=100
 RptLab=1
 LabSize=60
 [eeschema/libraries]
-LibName1=buttons
+LibName1=mixxeo
 [pcbnew]
 version=1
 LastNetListRead=
@@ -39,4 +39,4 @@ BoardOutlineThickness="    0.100000"
 ModuleOutlineThickness="    0.150000"
 [pcbnew/libraries]
 LibDir=
-LibName1=buttons
+LibName1=mixxeo
